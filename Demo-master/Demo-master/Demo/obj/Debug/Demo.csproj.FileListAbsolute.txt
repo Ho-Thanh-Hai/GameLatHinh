@@ -1,0 +1,26 @@
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\Demo-master\Demo-master\Demo\bin\Debug\Demo.exe.config
+D:\Demo-master\Demo-master\Demo\bin\Debug\Demo.exe
+D:\Demo-master\Demo-master\Demo\bin\Debug\Demo.pdb
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.Form1.resources
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.ResultForm.resources
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.exe
+D:\Demo-master\Demo-master\Demo\obj\Debug\Demo.pdb
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\1.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\10.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\2.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\3.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\4.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\5.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\6.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\7.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\8.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\9.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\correct.mp3
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\lat.mp3
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\music background.mp3
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\nen.png
+d:\Demo-master\Demo-master\Demo\bin\Debug\Resources\wrong.mp3
